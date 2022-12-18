@@ -1,0 +1,15 @@
+/* .image-list {
+  columns: 5 500px;
+  column-gap: 50px;
+  width: 100%;
+} */
+
+.container {
+  margin-top: 15px;
+}
+
+.image-list {
+  display: grid;
+  grid-template-columns: repeat(5, 1fr);
+  grid-gap: 15px;
+}

@@ -1,0 +1,17 @@
+body {
+    text-align: center;
+}
+
+.search-bar {
+  border: 1px solid lightgray;
+  border-radius: 5px;
+  padding: 10px;
+}
+
+#submitBtn {
+  margin-left: 5px;
+}
+
+label {
+  padding-right: 15px;
+}
