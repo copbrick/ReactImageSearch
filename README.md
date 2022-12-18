@@ -1,6 +1,10 @@
-# Getting Started with Create React App
+# Overview
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Displays images based on your query through application. Leverages Unsplash's Image Dataset API. 
+
+1. Use `npm start` to run application in development mode.
+2. Go to [http://localhost:3000](http://localhost:3000) once your application is running, to view it in your browser.
+3. Enter in your search term, and watch the magic happen.
 
 ## Available Scripts
 
